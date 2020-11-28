@@ -1,0 +1,22 @@
+{
+  "name": "fluffd",
+  "version": "1.0.0",
+  "description": "Furby Connect BLE Controller",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron index.js"
+  },
+  "dependencies": {
+    "menubar": "^5.2.3",
+    "noble": "https://github.com/jeffrafter/noble",
+    "winston": "^2.3.0",
+    "xpc-connection": "^0.1.4"
+  },
+  "author": "Jeija + Jeff + Nathaniel + Tim",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^2.0.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.11.0"
+  }
+}

@@ -1,0 +1,9 @@
+
+.actions {
+  padding-left: 10px;
+}
+
+.furby{
+  display: flex;
+  justify-content: space-between;
+}
